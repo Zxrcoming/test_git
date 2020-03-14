@@ -1,5 +1,6 @@
 // some the about the performance of Magit.
-// do the master development respectively with other feature branches.
+// test Magit with git branch performance and play with it.
+// this is master branch.
 const navbarEl = document.querySelector(".navbar");
 const headerEl = document.querySelector(".header-desc");
 
