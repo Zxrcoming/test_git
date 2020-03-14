@@ -1,3 +1,4 @@
+// some the about the performance of Magit.
 const navbarEl = document.querySelector(".navbar");
 const headerEl = document.querySelector(".header-desc");
 
