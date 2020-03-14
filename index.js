@@ -1,4 +1,5 @@
 // some the about the performance of Magit.
+// do the master development respectively with other feature branches.
 const navbarEl = document.querySelector(".navbar");
 const headerEl = document.querySelector(".header-desc");
 
