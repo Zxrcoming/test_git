@@ -1,0 +1,36 @@
+* spacemacs-basic
+** arrange layout
+*** the reason using layout
+    1. layout is good to organised your works when things get more and more.
+    2. every layout has their own buffers, and that the logic level reason
+*** the workflow
+    1. set layout with prefer name.
+    2. for now, no need to get rid of the default layout.
+    3. switch between smoothly, and focus on the main layout you're working on.
+** project and navigation 
+*** the reason using projet
+    1. using git control your project is just easy, and spacemacs knows it's
+       project when the version control is given.
+    2. navigation is efficient when you have multiple projects to do.
+    3. Always remember being smart to make your projects.
+*** the workflow
+    1. init projects with git.
+    2. and navigation with keybindings
+       | keybindings | what it do                             |
+       |-------------+----------------------------------------|
+       | SPC + p + l | list some projects you want to switch  |
+       | SPC + p + f | find files in the focused projet       |
+       | SPC + p + b | switch to buffer in the focused projet |
+    3. using buffers
+       - using helm to search buffers ( helm is everywhere, it changes how spacemacs work based 
+         on helm search)
+       - may the helm force be with you.
+** code editing
+*** require   
+    1. lsp, snippets, flycheck, autocompletion
+    2. be nicely coding and peacefully thinking and you will be good to go
+*** workflow
+    1. using vim and spacemacs coding style to do the most powerful thing ever.
+    2. searching and replace , goto defination, fast scroll, quick jumping(SPC j j/i)
+*** TODO Learning more and more about the Org-mod in spacemacs.  
+       
