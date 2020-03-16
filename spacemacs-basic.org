@@ -18,7 +18,7 @@
     2. and navigation with keybindings
        | keybindings | what it do                             |
        |-------------+----------------------------------------|
-       | SPC + p + l | list some projects you want to switch  |
+       | ~SPC + p + l~ | list some projects you want to switch  |
        | SPC + p + f | find files in the focused projet       |
        | SPC + p + b | switch to buffer in the focused projet |
     3. using buffers
@@ -34,5 +34,10 @@
     2. searching and replace , goto defination, fast scroll, quick jumping(SPC j j/i)
 *** TODO Learning more and more about the Org-mod in spacemacs.  
 *** test the lag and it's having lags which I will be dealing with later.
+    ~the lag is gone when cost 71 RMB to get support for x410~
     
        
+** remains to be solve
+   1. Chinese support (or every language support)
+   2. and learning how to grow with the spacemacs and happy hacking.
+#  LocalWords:  spacemacs
