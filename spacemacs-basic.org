@@ -41,3 +41,5 @@
    1. Chinese support (or every language support)
    2. and learning how to grow with the spacemacs and happy hacking.
 #  LocalWords:  spacemacs
+ [[http://www.baidu.com]]
+[[~/web_demo/img/1.png]]
