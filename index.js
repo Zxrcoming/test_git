@@ -1,5 +1,4 @@
 // some the about the performance of Magit.
-// master branch +1.
 // this is master branch.
 const navbarEl = document.querySelector(".navbar");
 const headerEl = document.querySelector(".header-desc");
