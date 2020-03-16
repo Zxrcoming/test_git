@@ -36,10 +36,25 @@
 *** test the lag and it's having lags which I will be dealing with later.
     ~the lag is gone when cost 71 RMB to get support for x410~
     
-       
 ** remains to be solve
    1. Chinese support (or every language support)
    2. and learning how to grow with the spacemacs and happy hacking.
 #  LocalWords:  spacemacs
- [[http://www.baidu.com]]
-[[~/web_demo/img/1.png]]
+** Test Some issues Working Remotely in WSL2 in Spacemacs. 
+   1. the ~CPU~ Usage is in the range of =70% => 100%=
+   2. and the RAM is constantly in the very small range of 50%, and always lower.
+*** Issues
+    1. When open browser for network searching, the ~CPU~ Usage is up to nearly 100% with 3.4~3.5GHz(my mathine is 2.80GHz in general).
+    2. other hardware stuff remains nearly the same, no risk.
+    3. when open my regular working app around, the ~CPU~ Usage is up to 100% for 10s or more, and goes down if nothing happens.
+*** The workaround   
+    1. waiting for the official upgrade in WSL2 performance.
+    2. and slow yourself down to fixed the high performance of the running usage.
+    3. Learn as much as you can to learn spacemacs cause doing so, one app, one OS, and ~CPU~ Usage goes down for long term.
+       So, get yourself learning and thinking, ==> building and running.
+    4. and remember the importance of high quality network which is much important for me, and the way I work and improve myself.
+    5. remains to be seen.
+** It will workout at the end when you just really want to learn everything you wish for.
+   1. trust yourself.
+   2. learning and building, then thinking and running.
+   3. Peace Yourself.
