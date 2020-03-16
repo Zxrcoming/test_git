@@ -1,4 +1,5 @@
 // some the about the performance of Magit.
+// this is a change made for the test_branch.
 // this is master branch.
 const navbarEl = document.querySelector(".navbar");
 const headerEl = document.querySelector(".header-desc");
