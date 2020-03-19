@@ -7,6 +7,8 @@ def func(a, b):
 
 def main():
     print(func(2, 3))
+    v = 12
+    print(v)
     print(sys.version_info)
 
 

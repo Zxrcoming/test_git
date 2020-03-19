@@ -86,10 +86,6 @@
    2. learning and building, then thinking and running.
    3. Peace Yourself.
 *** DONE For Now I still needs to learn more about it's usage. [2/3] [66%]
-    CLOSED: [2020-03-17 Tue 22:51] SCHEDULED: <2020-03-18 Wed 08:00>
-    :LOGBOOK:
-    CLOCK: [2020-03-17 Tue 22:31]--[2020-03-17 Tue 22:51] =>  0:20
-    :END:
     + [-] Org mode [1/3] [33%]
       - [ ] Org basic move and heading and structure.
       - [ ] Org agenda and Org capture.
@@ -110,15 +106,3 @@ print("ddd")
 | this 1 | this 2 | this 3 | this 4 |
 |--------+--------+--------+--------|
 |        |        |        |        |
-*** DONE test I am done                                               :task1:
-    DEADLINE: <2020-03-18 Wed>
-** [#C] test the Org-sorting
-*** TODO [#A] task3                                            :task2_3:@now:
-    DEADLINE: <2020-03-18 Wed 20:00> SCHEDULED: <2020-03-17 Tue 23:00>
-    do something with task3 at t3.
-*** PROG [#B] task1                                                                  :task1:
-    DEADLINE: <2020-03-20 Fri 23:00> SCHEDULED: <2020-03-17 Tue>
-    do something with task1 at t1.
-*** TODO [#C] task2                                      :@last:@now:@future:
-    DEADLINE: <2020-03-18 Wed 23:00> SCHEDULED: <2020-03-18 Wed>
-    do something with task2 at t2.
