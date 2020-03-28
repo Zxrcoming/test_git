@@ -85,7 +85,7 @@
    1. trust yourself.
    2. learning and building, then thinking and running.
    3. Peace Yourself.
-** DONE For Now I still needs to learn more about it's usage. [2/3] [66%] :ARCHIVE:
+** DONE For Now I still needs to learn more about it's usage. [2/3] [66%] 
      + [-] Org mode [1/3] [33%]
        - [ ] Org basic move and heading and structure.
        - [ ] Org agenda and Org capture.
