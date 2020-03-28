@@ -1,6 +1,5 @@
 #+title:spacemacs-basic
 #+author: Zxrcoming
-#+TAGS: @now(n) @future(f)
 #+date: <2020-03-17 Tue>
 * spacemacs-basic
 ** arrange layout
